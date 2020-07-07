@@ -13,7 +13,7 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "SAMAN___",
+        "display1Font": "Rubik",
         "display1Size": "6",
         "display2Font": "Rubik",
         "display2Size": 3,
@@ -47,7 +47,7 @@
       }
     ],
     "uniqCompNum": 20,
-    "versionPublish": "4.12.3",
+    "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/splash-128x128.png",
@@ -482,7 +482,7 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/embeddedimage-3-351x480.jpg",

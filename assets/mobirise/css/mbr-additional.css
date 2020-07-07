@@ -3,11 +3,12 @@
 
 
 
+
 body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'SAMAN___';
+  font-family: 'Rubik', sans-serif;
   font-size: 6rem;
   font-display: swap;
 }
